@@ -53,8 +53,4 @@
 
 
 
-```
 
-ℹ️ **Note**
-
-To run this code, you'll need to set up a React
